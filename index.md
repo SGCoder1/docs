@@ -1,14 +1,10 @@
 ---
 title: Home
 layout: home
----
 
----
 title: SpeedX-16
 layout: spdx16
----
 
----
 title: SGCode
 layout: sgcc
 ---
