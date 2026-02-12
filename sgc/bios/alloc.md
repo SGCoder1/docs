@@ -1,6 +1,6 @@
 ---
 title: bios_alloc
-parent: SGCode APIs
+parent: APIs
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: bios_open
-parent: SGCode APIs
+parent: APIs
 layout: default
 ---
 

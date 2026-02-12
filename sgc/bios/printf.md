@@ -1,6 +1,6 @@
 ---
 title: bios_print
-parent: SGCode APIs
+parent: APIs
 layout: default
 ---
 

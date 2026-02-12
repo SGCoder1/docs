@@ -1,6 +1,6 @@
 ---
 title: bios_close
-parent: SGCode APIs
+parent: APIs
 layout: default
 ---
 

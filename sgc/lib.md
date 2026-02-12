@@ -1,5 +1,6 @@
 ---
-title: SGCode APIs
+title: APIs
+parent: SGCode
 layout: default
 ---
 
